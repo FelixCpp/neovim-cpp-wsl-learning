@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/fix20/development/cpp/neovim-cpp-wsl-learning/build",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-g++ -g -std=gnu++20 -o CMakeFiles/app.dir/src/main.cpp.obj -c /home/fix20/development/cpp/neovim-cpp-wsl-learning/src/main.cpp",
+  "file": "/home/fix20/development/cpp/neovim-cpp-wsl-learning/src/main.cpp",
+  "output": "/home/fix20/development/cpp/neovim-cpp-wsl-learning/build/CMakeFiles/app.dir/src/main.cpp.obj"
+}
+]
